@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3b63374f-9c32-40a9-9199-3e72377a03d6)A PC bottleneck calculator is a specialized hardware performance testing tool designed to assist users in swiftly identifying performance bottlenecks within their computers and providing optimal optimization solutions.
+A PC bottleneck calculator is a specialized hardware performance testing tool designed to assist users in swiftly identifying performance bottlenecks within their computers and providing optimal optimization solutions.
 
 
 **What is a PC Bottleneck Calculator?**
@@ -16,7 +16,7 @@ To effectively utilize an online bottleneck calculator and understand your PC's 
    - Different game resolutions (such as 1080p, 1440p, or 4K) affect performance differently. Choosing the correct resolution is crucial for the calculator to evaluate the system's capability to handle varying graphical loads effectively.
 3. **Interpreting Results:**
    - Generally, minor bottlenecks of around 10-15% may not significantly affect daily computing tasks or gaming experiences. However, for more demanding applications or competitive gaming, minimizing bottlenecks as much as possible is essential to ensure smooth performance.
-use  online   https://bottleneckcalculators.org/
+** use  online   https://bottleneckcalculators.org/ **
 **Understanding Bottlenecks in a PC System**
 In a personal computer (PC) system, bottlenecks are common issues that limit overall performance and impact user experience. The essence of a bottleneck is that the performance of one component in the system is insufficient to match the speed of other parts, thereby restricting overall processing capability. This situation frequently occurs during various compute-intensive tasks, such as high-resolution gaming, video editing, or data analysis.
 
